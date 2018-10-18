@@ -1,0 +1,7 @@
+{
+  "name": "fart_button",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
